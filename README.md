@@ -2,6 +2,8 @@
 
 🎯 Data and Reporting Analyst | 🎯 Data Visualization Specialist 
 
+About me : 
+
 Welcome to my GitHub! I’m a data professional with over 7 years of experience turning raw data into meaningful insights through visual storytelling, reporting, and automation.
 
 🔍 My work spans across:
