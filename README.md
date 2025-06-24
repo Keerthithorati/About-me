@@ -4,6 +4,7 @@
 Welcome to my GitHub! I’m a data professional with over 7 years of experience turning raw data into meaningful insights through visual storytelling, reporting, and automation.
 
 🔍 My work spans across:
+
 -- Business Intelligence development (Power BI, Tableau)
 -- Designing database structures and performing analysis with SQL
 -- Cloud data platforms (Azure, Snowflake)
