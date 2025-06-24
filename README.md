@@ -18,8 +18,7 @@ Welcome to my GitHub! I’m a data professional with over 7 years of experience 
 
 💼 I’m passionate about solving real-world problems through data and building interactive dashboards that not only look great — but tell compelling stories.
 
-**🔧 Tools & Technologies : **
-  Excel |Power BI | Tableau | ETL | M-Language | DAX | SQL | O Data | Sharepoint |  Azure | Snowflake |
+🔧 Tools & Technologies :   Excel |Power BI | Tableau | ETL | M-Language | DAX | SQL | O Data | Sharepoint |  Azure | Snowflake |
 
 **📫 Let’s connect!**
 🔗 LinkedIn - https://www.linkedin.com/in/sai-satya-keerthi-thorati-1612b7284/
