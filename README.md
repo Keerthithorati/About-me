@@ -11,11 +11,11 @@ Welcome to my GitHub! I’m a data professional with over 7 years of experience 
 
 **🔍 My work spans across:**
 
--- Business Intelligence development (Power BI, Tableau)
+-- **Business Intelligence development** (Excel, Power BI, Tableau)
 
 -- Designing database structures and performing analysis with SQL
 
--- Cloud data platforms (Azure, Snowflake)
+-- **Cloud data platforms** (Azure, Snowflake)
 
 -- End-to-end dashboard solutions for stakeholders
 
