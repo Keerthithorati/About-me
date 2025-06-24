@@ -11,18 +11,18 @@ Welcome to my GitHub! I’m a data professional with over 7 years of experience 
 
 **🔍 My work spans across:**
 
--- **Business Intelligence development** (Excel, Power BI, Tableau)
+          -- **Business Intelligence development** (Excel, Power BI, Tableau)
 
--- Designing database structures and performing analysis with SQL
+          -- Designing database structures and performing analysis with SQL
 
--- **Cloud data platforms** (Azure, Snowflake)
+          -- **Cloud data platforms** (Azure, Snowflake)
 
--- End-to-end dashboard solutions for stakeholders
+          -- End-to-end dashboard solutions for stakeholders
 
 
 **🔧 Tools & Technologies**
 
-Excel |Power BI | Tableau | ETL | M-Language | DAX | SQL | O Data | Sharepoint |  Azure | Snowflake |
+            Excel |Power BI | Tableau | ETL | M-Language | DAX | SQL | O Data | Sharepoint |  Azure | Snowflake |
 
 **🔍 Explore My Projects**
 
