@@ -28,7 +28,7 @@ Excel |Power BI | Tableau | ETL | M-Language | DAX | SQL | O Data | Sharepoint |
 
 Please visit my repositories to explore my work in data and business intelligence:
 
-**Data Visualization Projects **– Showcasing my skills in Power BI, Tableau, and Excel, where I design dashboards that are interactive, insightful, and tailored to business needs.
+**Data Visualization Projects**– Showcasing my skills in Power BI, Tableau, and Excel, where I design dashboards that are interactive, insightful, and tailored to business needs.
 
 **SQL Projects** – Demonstrating my SQL querying, data cleaning, and analysis skills, including schema understanding and real-world data exploration.
 
